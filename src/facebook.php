@@ -15,6 +15,10 @@
  * under the License.
  */
 
+namespace Facebook;
+
+use Facebook;
+
 require_once "base_facebook.php";
 
 /**

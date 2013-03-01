@@ -15,6 +15,10 @@
  * under the License.
  */
 
+namespace Facebook;
+
+use Facebook;
+
 if (!function_exists('curl_init')) {
   throw new Exception('Facebook needs the CURL PHP extension.');
 }
