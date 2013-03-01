@@ -17,8 +17,6 @@
 
 namespace Facebook;
 
-use Facebook;
-
 require_once "BaseFacebook.php";
 
 /**
